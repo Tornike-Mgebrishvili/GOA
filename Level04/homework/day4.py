@@ -36,4 +36,3 @@ last_name = input("Enter Your Lastname: ")
 age = input("Enter Your Age: ")
 
 print(name,last_name,age,"სწავლობს",School, "და აკადემია",academy, "ში")
-
