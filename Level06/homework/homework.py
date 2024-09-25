@@ -34,8 +34,8 @@ print("დედის სახელი: ", momname,"დედის გვა
 
 num1 = int(input("შეიყვანეთ ორნიშნა რიცხვი: "))
 
-first_number = num1 // 10
-second_number = num1 % 10
+first_number = num1 // 3
+second_number = num1 % 9
 
 
 sum_of_numbers = first_number + second_number
