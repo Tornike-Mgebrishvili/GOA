@@ -50,3 +50,4 @@ davit = 20
 tornike = 10
 print("")
 print(davit > 18 or 19 > tornike)
+
